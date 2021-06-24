@@ -1,0 +1,33 @@
+.gradle
+/build/
+/src/main/resources/properties/buildinfo.properties
+
+
+### eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+target/
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+/bin/**
+/log/**
+/out/**
+/.idea/**
+*/node_modules/
+*/_book/
